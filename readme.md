@@ -33,11 +33,11 @@ O endpoint necessário gerado pelo server.go para este desafio será: /cotacao e
 ## Execução
 
   - Server
-    cd server
-    go build
-    ./server
+    - cd server
+    - go build
+    - ./server
 
   - Client
-    cd client
-    go build
-    ./client
+    - cd client
+    - go build
+    - ./client
